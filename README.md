@@ -21,9 +21,7 @@ This repository sets up the base environment for the Solar Challenge project.
 3. **Check CI**
 GitHub Actions runs automatically on every push to ensure dependencies install correctly.
 
-Absolutely! Here’s a **clear, professional README** tailored for your solar EDA project, based on all the tasks and structure you described:
 
----
 
 
 # Solar Data EDA & Cleaning
