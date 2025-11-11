@@ -1,6 +1,4 @@
-Perfect! I can integrate **Task 3 (Cross-Country Comparison)** and **Task 4 (Optional Streamlit Dashboard)** into your existing README so it’s complete and structured. Here’s the updated version:
 
----
 
 # 🌞 Solar Challenge Week 0
 
