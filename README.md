@@ -161,3 +161,11 @@ plotly
 streamlit
 pyngrok
 ```
+---
+## 📊 Project Preview
+
+<div align="center">
+ <img src='https://i.postimg.cc/5HGM9ZVB/solarimg.png' alt="Solar Challenge Dashboard" width="600"/>
+  <br>
+  <em>Solar data analysis and comparison dashboard</em>
+</div>
